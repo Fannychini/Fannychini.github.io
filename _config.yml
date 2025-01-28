@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Fanny-Franchini?ev=hdr_xprf"
     - label: "Google Scholar"
-      icon: "<i class="fa-brands fa-google-scholar"></i>"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=Q8wsyjEAAAAJ&hl=en"
 
 # Site Footer
