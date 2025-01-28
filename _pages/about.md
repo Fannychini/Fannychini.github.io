@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About me"
+header:
+  image: /assets/images/perth.jpg
 ---
 
 ## Hello
@@ -13,16 +15,16 @@ My broader interests include treatment patterns, inequities in access and provis
 
 ### Other interests
 ```md
-Microbiome
+My bunnies Ninja & Toastie 🐰🐇
 Wildlife advocate 
+Microbiome
 Hiking 
 Bouldering 
+Painting
 Climate Reality Leader 🌱 
-Painting 
-My bunnies Ninja & Toastie 🐰🐇
 ```
 
 ## Contact 
 
-[Email me](mailto:fanny.franchini@unimelb.edu.au) with any feeback about my research or this site, or for potential collaboration. 
+[Email me](mailto:fanny.franchini@unimelb.edu.au) or message me on [BlueSky](https://bsky.app/profile/fannychini.bsky.social) with any feeback about my research or for potential collaboration. 
 
