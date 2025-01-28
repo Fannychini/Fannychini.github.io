@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About me"
 header:
-  image: /assets/images/perth.jpg
+  image: /assets/images/perth.jpeg
 ---
 
 ## Hello
@@ -26,5 +26,5 @@ Climate Reality Leader 🌱
 
 ## Contact 
 
-[Email me](mailto:fanny.franchini@unimelb.edu.au) or message me on [BlueSky](https://bsky.app/profile/fannychini.bsky.social) with any feeback about my research or for potential collaboration. 
+[Email me](mailto:fanny.franchini@unimelb.edu.au) or message me on [BlueSky](https://bsky.app/profile/fannychini.bsky.social) with any feeback about my research, or to collaborate! 
 
