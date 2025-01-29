@@ -3,13 +3,13 @@ permalink: /research/
 title: "Research updates"
 header:
   #image: /assets/images/cradle.jpeg
-  overlay_image: /assets/images/cradle.jpeg
+  overlay_image: /assets/images/cradle_path.jpeg
   overlay_filter: 0.15
   caption: "Find your path, at Cradle National Park"
 ---
 
 ## The latest
-Recent projects that are `completed`:
+Recent projects that are **completed**:
 {: .notice--success}
 
 - [Process mining for healthcare cost](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02446-5): Toward value-based care using cost mining: cost aggregation and visualization across the entire colorectal cancer patient pathway
@@ -19,7 +19,7 @@ Recent projects that are `completed`:
 - [NSCLC treatment patterns](https://doi.org/10.1016/j.jtocrr.2024.100662): Real-World Treatment and Outcomes in ALK-Rearranged NSCLC: Results From a Large U.S.-Based Database 
 
 ## What is coming up?
-Current projects that I am finalising -- `almost there`: 
+Current projects that I am finalising, i.e. **almost there**`**: 
 {: .notice--warning}
 
 - TORCH-VIC: State-wide Victorian linked dataset for cancer research, cohort profile
@@ -30,7 +30,7 @@ Current projects that I am finalising -- `almost there`:
 - Consumer-led research: Developped a model with consumers to establish a real consumer-led research project: what has (not) worked, how, and what to do next!
 
 ## Presentations
-Selected work that I have presented at scientific meetings:
+Selected work that I have presented at scientific meetings.
 
 - Research REWRITTEN Real World Evidence and Cancer Treatment, 2024 in Melbourne Australia. Invited speaker 'PRIMCAT and the use of MBS and PBS data'
 - International Society of Oncology Pharmacy Practitioners, 2024 in Melbourne Australia. Invited speaker 'PRIMCAT: A novel approach to informing Health Technology Assessment decision making in Australia'
@@ -49,17 +49,17 @@ Selected work that I have presented at scientific meetings:
 Full publication list is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q8wsyjEAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% capture notice-text %}
-Some highlights:
-
 *The manuscript that I most enjoyed so far:* 
-
 > [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
 
 *The manuscript that took me forever to finish & write:* 
-
 >[the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
 
 *The manuscript that I am most proud of as a supervisor:* 
-
 > [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
 {% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Some highlights:</h4>
+  {{ notice-text | markdownify }}
+</div>
