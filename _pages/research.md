@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research updates"
 header:
   #image: /assets/images/cradle.jpeg
-  overlay_image: /assets/images/cradle_pat2.jpeg
+  overlay_image: /assets/images/cradle_path2.jpeg
   overlay_filter: 0.15
   caption: "Find your path, at Cradle National Park"
 ---
@@ -19,7 +19,7 @@ Recent projects that are **completed**:
 - [NSCLC treatment patterns](https://doi.org/10.1016/j.jtocrr.2024.100662): Real-World Treatment and Outcomes in ALK-Rearranged NSCLC: Results From a Large U.S.-Based Database 
 
 ## What is coming up?
-Current projects that I am finalising, i.e. **almost there**`**: 
+Current projects that I am finalising, i.e. **almost there**: 
 {: .notice--warning}
 
 - TORCH-VIC: State-wide Victorian linked dataset for cancer research, cohort profile
@@ -39,6 +39,7 @@ Selected work that I have presented at scientific meetings.
 - Clinical Oncology Society of Australia (COSA) 50th Annual Scientific Meeting, 2023 Melbourne Australia. Oral presentation 'Forecasting the future impact of novel therapies on cancer treatment in Australia'
 - European Society of Medical Oncology (ESMO) Annual Congress, 2023 Madrid Spain. Oral presentation 'PRIMCAT: A novel approach to informing Health Technology Assessment decision making in Australia'
 - Clinical Oncology Society of Australia (COSA) 48th Annual Scientific Meeting, 2023 virtual conference Australia. Oral presentation 'Budget impact modelling for listing new cancer treatments in different cancer stages using real-world data' 
+Victorian Comprehensive Cancer Centre Alliance Research Conference, 2023 Melbourne Australia. Oral presentation 'PRIMCAT-MEL: A novel approach to informing Health Technology Assessment decision making for melanoma in Australia'
 - R for HTA annual workshop, 2021 virtual conference United Kingdom. Oral presentation 'Fantastic data and where to scrape them'
 - 8th Australia Lung Cancer Conference, 2020 Melbourne Australia. Oral presentation 'Patterns of care in never-smokers versus smokers in the treatment of lung cancer'
 - International Congress of Immunology, 2016 Melbourne Australia. Oral presentation 'Dysregulated repair processes in inflammation and colorectal cancer; pathogenic regulatory T cells to blame?'
