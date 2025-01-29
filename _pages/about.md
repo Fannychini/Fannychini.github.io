@@ -5,7 +5,7 @@ excerpt: "Do you also like birds?"
 header:
   #image: /assets/images/perth_large.jpeg
   overlay_image: /assets/images/perth.png
-  overlay_filter: 0.3
+  overlay_filter: 0.25
   caption: "Sleepy western galahs in Nambung National Park"
   actions:
     - label: "Galahs are cute"

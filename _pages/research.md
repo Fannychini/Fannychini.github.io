@@ -17,15 +17,15 @@ Recent projects that are `completed`:
 ## What is coming up?
 Current projects that I am finalising -- `almost there`:
 
-- [TORCH-VIC]: State-wide Victorian linked dataset for cancer research, cohort profile
-- [PRIMCAT-MEL]: Whole disease model for melanoma, using TORCH-VIC & clinical registry data
-- [PRIMCAT-LUNG]: Whole disease model for non-small cell lung cancer, using TORCH-VIC & clinical registry data
-- [Distance travelled methodology]: Comparing different methods of calculating travel distance from residence to place of care using TORCH-VIC 
-- [Distance travelled for care]: Radiotherapy is a cornerstone of cancer treatment, but how much do patients travel around Victoria to receive their care?
-- [Consumer-led research]: Developped a model with consumers to establish a real consumer-led research project: what has (not) worked, how, and what to do next!
+- TORCH-VIC: State-wide Victorian linked dataset for cancer research, cohort profile
+- PRIMCAT-MEL: Whole disease model for melanoma, using TORCH-VIC & clinical registry data
+- PRIMCAT-LUNG: Whole disease model for non-small cell lung cancer, using TORCH-VIC & clinical registry data
+- Distance travelled methodology: Comparing different methods of calculating travel distance from residence to place of care using TORCH-VIC 
+- Distance travelled for care: Radiotherapy is a cornerstone of cancer treatment, but how much do patients travel around Victoria to receive their care?
+- Consumer-led research: Developped a model with consumers to establish a real consumer-led research project: what has (not) worked, how, and what to do next!
 
 ## Presentations
-Selected work that I have presented at scientific meetings --
+Selected work that I have presented at scientific meetings:
 
 - Research REWRITTEN Real World Evidence and Cancer Treatment, 2024 in Melbourne Australia. Invited speaker 'PRIMCAT and the use of MBS and PBS data'
 - International Society of Oncology Pharmacy Practitioners, 2024 in Melbourne Australia. Invited speaker 'PRIMCAT: A novel approach to informing Health Technology Assessment decision making in Australia'
@@ -43,8 +43,11 @@ Selected work that I have presented at scientific meetings --
 ## Publications
 Full publication list is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q8wsyjEAAAAJ&view_op=list_works&sortby=pubdate).
 
-Some highlights
-> The manuscript that I most enjoyed so far: [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
-> The manuscript that took me forever to finish & write: [the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
-> The manuscript that I am most proud of as a supervisor: [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
+Some highlights:
+*The manuscript that I most enjoyed so far:* 
+> [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
+*The manuscript that took me forever to finish & write:* 
+>[the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
+*The manuscript that I am most proud of as a supervisor:* 
+> [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
 
