@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research updates"
 header:
   #image: /assets/images/cradle.jpeg
-  overlay_image: /assets/images/cradle_path.jpeg
+  overlay_image: /assets/images/cradle_pat2.jpeg
   overlay_filter: 0.15
   caption: "Find your path, at Cradle National Park"
 ---
@@ -49,12 +49,14 @@ Selected work that I have presented at scientific meetings.
 Full publication list is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q8wsyjEAAAAJ&view_op=list_works&sortby=pubdate).
 
 {% capture notice-text %}
-*The manuscript that I most enjoyed so far:* 
-> [Competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full) </br>
-*The manuscript that took me forever to finish & write:* 
->[The PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006) </br>
-*The manuscript that I am most proud of as a supervisor:* 
-> [Leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9) </br>
+> *The manuscript that I most enjoyed so far:* 
+> [Competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full) 
+
+> *The manuscript that took me forever to finish & write:* 
+> [The PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006) 
+
+> *The manuscript that I am most proud of as a supervisor:* 
+> [Leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
 {% endcapture %}
 
 <div class="notice--info">
