@@ -50,13 +50,11 @@ Full publication list is on [Google Scholar](https://scholar.google.com/citation
 
 {% capture notice-text %}
 *The manuscript that I most enjoyed so far:* 
-> [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
-
+> [Competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full) </br>
 *The manuscript that took me forever to finish & write:* 
->[the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
-
+>[The PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006) </br>
 *The manuscript that I am most proud of as a supervisor:* 
-> [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
+> [Leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9) </br>
 {% endcapture %}
 
 <div class="notice--info">
