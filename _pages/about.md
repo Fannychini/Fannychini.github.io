@@ -1,13 +1,14 @@
 ---
 permalink: /about/
 title: "About me"
+excerpt: "Do you also like birds?"
 header:
-  #image: /assets/images/perth.jpeg
-  overlay_image: /assets/images/perth.jpeg
-  overlay_filter: 0.5
+  #image: /assets/images/perth_large.jpeg
+  overlay_image: /assets/images/perth.png
+  overlay_filter: 0.3
   caption: "Sleepy western galahs in Nambung National Park"
   actions:
-    - label: "Do you also like birds?"
+    - label: "Galahs are cute"
       url: "https://birdlife.org.au/bird-profiles/galah/"
 ---
 
