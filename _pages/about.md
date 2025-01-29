@@ -9,7 +9,7 @@ header:
   caption: "Sleepy western galahs in Nambung National Park"
   actions:
     - label: "Galahs are cute"
-      url: "https://birdlife.org.au/bird-profiles/galah/"
+      url: "https://birdlife.org.au/bird-profiles/"
 ---
 
 ## Hello

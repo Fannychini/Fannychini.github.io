@@ -1,11 +1,15 @@
 ---
 permalink: /research/
 title: "Research updates"
+excerpt: "Not all those who wander are lost"
 header:
   #image: /assets/images/cradle.jpeg
-  overlay_image: /assets/images/cradle_path2.jpeg
+  overlay_image: /assets/images/cradle_path3.jpeg
   overlay_filter: 0.15
-  caption: "Find your path, at Cradle National Park"
+  caption: "Find your path, Cradle National Park"
+  actions:
+    - label: "Happy trails"
+      url: "https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track"
 ---
 
 ## The latest
