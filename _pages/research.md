@@ -2,11 +2,15 @@
 permalink: /research/
 title: "Research updates"
 header:
-  image: /assets/images/cradle.jpeg
+  #image: /assets/images/cradle.jpeg
+  overlay_image: /assets/images/cradle.jpeg
+  overlay_filter: 0.15
+  caption: "Find your path, at Cradle National Park"
 ---
 
 ## The latest
 Recent projects that are `completed`:
+{: .notice--success}
 
 - [Process mining for healthcare cost](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02446-5): Toward value-based care using cost mining: cost aggregation and visualization across the entire colorectal cancer patient pathway
 - [Colorectal cancer cost in Australia](https://bmjopen.bmj.com/content/14/12/e081483): Effects of clinical and socioeconomic factors on Medicare and patient costs for colorectal cancer in Australia: a retrospective multivariate regression analysis
@@ -15,7 +19,8 @@ Recent projects that are `completed`:
 - [NSCLC treatment patterns](https://doi.org/10.1016/j.jtocrr.2024.100662): Real-World Treatment and Outcomes in ALK-Rearranged NSCLC: Results From a Large U.S.-Based Database 
 
 ## What is coming up?
-Current projects that I am finalising -- `almost there`:
+Current projects that I am finalising -- `almost there`: 
+{: .notice--warning}
 
 - TORCH-VIC: State-wide Victorian linked dataset for cancer research, cohort profile
 - PRIMCAT-MEL: Whole disease model for melanoma, using TORCH-VIC & clinical registry data
@@ -43,11 +48,18 @@ Selected work that I have presented at scientific meetings:
 ## Publications
 Full publication list is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Q8wsyjEAAAAJ&view_op=list_works&sortby=pubdate).
 
+{% capture notice-text %}
 Some highlights:
-*The manuscript that I most enjoyed so far:* 
-> [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
-*The manuscript that took me forever to finish & write:* 
->[the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
-*The manuscript that I am most proud of as a supervisor:* 
-> [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
 
+*The manuscript that I most enjoyed so far:* 
+
+> [competing risks implementation](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2023.1255021/full)
+
+*The manuscript that took me forever to finish & write:* 
+
+>[the PRIMCAT-CRC model](https://doi.org/10.1016/j.jval.2024.06.006)
+
+*The manuscript that I am most proud of as a supervisor:* 
+
+> [leveraging the potential for deintensification in cancer care](https://www.nature.com/articles/s43018-024-00827-9)
+{% endcapture %}
