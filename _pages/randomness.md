@@ -1,6 +1,8 @@
 ---
-layout: blog
+layout: collection
 permalink: /blog/
+collection: blog
+entries_layout: grid
 title: Things I enjoy
 excerpt: "Not always about R"
 header:

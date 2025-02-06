@@ -6,5 +6,3 @@ tags:
   - blog
   - random
 ---
-
-Trial blog
