@@ -291,6 +291,15 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  #docs:
+    #output: true
+    #permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -314,8 +323,8 @@ defaults:
       author_profile: true
   # _blog
   - scope:
-      path: "_blog"
-      type: posts
+      path: ""
+      type: blog
     values:
       layout: single
       author_profile: true

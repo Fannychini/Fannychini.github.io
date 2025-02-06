@@ -1,10 +1,10 @@
 ---
-layout: posts
+layout: blog
 permalink: /blog/
-title: "Things I enjoy"
+title: Things I enjoy
 excerpt: "Not always about R"
 header:
-  overlay_image: /assets/images/wilson_prom2.jpg
+  overlay_image: /assets/images/wilson_prom3.jpg
   overlay_filter: 0.15
   caption: "Wombat paradise, Wilson Promotory National Park"
   actions:
