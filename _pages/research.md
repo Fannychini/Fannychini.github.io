@@ -3,7 +3,6 @@ permalink: /research/
 title: "Research updates"
 excerpt: "Not all those who wander are lost"
 header:
-  #image: /assets/images/cradle.jpeg
   overlay_image: /assets/images/cradle_path3.jpeg
   overlay_filter: 0.15
   caption: "Find your path, Cradle National Park"
