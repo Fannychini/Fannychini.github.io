@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "Do you also like birds?"
 header:
   overlay_image: /assets/images/perth2.jpeg
-  overlay_filter: 0.25
+  overlay_filter: 0.15
   caption: "Sleepy western galahs in Nambung National Park"
   actions:
     - label: "Galahs are cute"
