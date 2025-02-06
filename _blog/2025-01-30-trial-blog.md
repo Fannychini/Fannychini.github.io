@@ -1,14 +1,10 @@
 ---
-title: "Some initial thoughts"
-excerpt: let's work with it in R 
-category: randomness
+title: "Some initial blog"
+excerpt: testing the blog
+category: blog
 tags:
-  - 
-  - 
-  - 
-  - 
-header:
-  image: /assets/images/featurepls.png
+  - blog
+  - random
 ---
 
 Trial blog
