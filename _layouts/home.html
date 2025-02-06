@@ -1,9 +1,5 @@
 ---
 layout: archive
-header:
-  image: /assets/images/beech_forest2.png
-author_profile: true
-entries_layout: grid
 ---
 
 {{ content }}
@@ -23,6 +19,16 @@ entries_layout: grid
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
 </div>
 
 {% include paginator.html %}
