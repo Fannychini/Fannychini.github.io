@@ -293,9 +293,6 @@ compress_html:
 
 # Collections
 collections:
-  #docs:
-    #output: true
-    #permalink: /:collection/:path/
   blog:
     output: true
     permalink: /:collection/:path/
@@ -327,21 +324,10 @@ defaults:
       type: blog
     values:
       layout: single
-      author_profile: true
-      read_time: false
+      author_profile: false
+      read_time: true
       comments: false
       share: true
       related: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+
 
