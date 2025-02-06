@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /posts/
-title: "R world posts"
+title: R world posts
 excerpt: "R-elated content"
 header:
   overlay_image: /assets/images/rock_reef2.jpeg
@@ -12,3 +12,4 @@ header:
       url: #"."
 ---
 
+Test
