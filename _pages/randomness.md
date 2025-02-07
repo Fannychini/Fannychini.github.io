@@ -10,6 +10,6 @@ header:
   overlay_filter: 0.15
   caption: "Wombat paradise, Wilson Promotory National Park"
   actions:
-    - label: #"."
-      url: #"."
+    - label: "Support wildlife"
+      url: "https://www.wires.org.au"
 ---
